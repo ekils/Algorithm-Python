@@ -373,7 +373,7 @@ switch(APP)%% 判斷工程版或量測版
         ylabel(' signal','Fontsize',12);
         hold on
         
-       pause
+       pai ='小皮球香蕉油滿地開花21';
         
         
 %          pause
