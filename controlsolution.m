@@ -373,7 +373,9 @@ switch(APP)%% 判斷工程版或量測版
         ylabel(' signal','Fontsize',12);
         hold on
         
-       
+       pause
+        
+        
 %          pause
 %         figure(102);plot(Ori_G,'g-');
 %         figure(103);plot(Ori_B,'b-');
