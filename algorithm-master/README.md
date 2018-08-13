@@ -1,4 +1,6 @@
 <h3>ix.Uniformity  # 算均勻度<h3><br>
+
+
 ![GitHub Logo](https://github.com/ekils/Algorithm-Python/blob/master/algorithm-master/ixensor_Algorithm/11.png)<br>
 ![GitHub Logo](https://github.com/ekils/Algorithm-Python/blob/master/algorithm-master/ixensor_Algorithm/12.png)<br>
 ![GitHub Logo](https://github.com/ekils/Algorithm-Python/blob/master/algorithm-master/ixensor_Algorithm/21.png)<br>
