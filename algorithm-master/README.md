@@ -1,5 +1,5 @@
 <h3>ix.Uniformity  # 算均勻度<h3><br>
-
+![GitHub Logo](https://reurl.cc/nz7W6)<br>
 ![GitHub Logo](https://github.com/ekils/Algorithm-Python/blob/master/algorithm-master/ixensor_Algorithm/11.png)<br>
 ![GitHub Logo](https://github.com/ekils/Algorithm-Python/blob/master/algorithm-master/ixensor_Algorithm/12.png)<br>
 ![GitHub Logo](https://github.com/ekils/Algorithm-Python/blob/master/algorithm-master/ixensor_Algorithm/21.png)<br>
@@ -23,7 +23,7 @@
 
 <h3>ix.biomarker <h3><br>
 
-![GitHub Logo](https://reurl.cc/nz7W6)<br>
+
 
 ![GitHub Logo(https://github.com/ekils/AlgorithmPython/blob/master/algorithmmaster/ixensor_Algorithm/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-04-11%20%E4%B8%8B%E5%8D%881.52.36.pngg)<br>
 ![GitHub Logo(https://github.com/ekils/AlgorithmPython/blob/master/algorithmmaster/ixensor_Algorithm/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-04-11%20%E4%B8%8B%E5%8D%881.52.47.png)<br>
