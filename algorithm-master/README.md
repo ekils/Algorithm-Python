@@ -22,7 +22,7 @@
 ![GitHub Logo](https://github.com/ekils/Algorithm-Python/blob/master/algorithm-master/ixensor_Algorithm/ratio.png)<br>
 
 <h3>ix.biomarker <h3><br>
-![GitHub Logo](https://github.com/ekils/AlgorithmPython/blob/master/algorithmmaster/ixensor_Algorithm/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-04-11%20%E4%B8%8B%E5%8D%881.52.13.png)<br>
-![GitHub Logo](https://github.com/ekils/AlgorithmPython/blob/master/algorithmmaster/ixensor_Algorithm/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-04-11%20%E4%B8%8B%E5%8D%881.52.36.pngg)<br>
-![GitHub Logo](https://github.com/ekils/AlgorithmPython/blob/master/algorithmmaster/ixensor_Algorithm/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-04-11%20%E4%B8%8B%E5%8D%881.52.47.png)<br>
-![GitHub Logo](https://github.com/ekils/AlgorithmPython/blob/master/algorithmmaster/ixensor_Algorithm/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-04-11%20%E4%B8%8B%E5%8D%881.52.58.png)<br>
+![GitHub Logo(https://github.com/ekils/AlgorithmPython/blob/master/algorithmmaster/ixensor_Algorithm/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-04-11%20%E4%B8%8B%E5%8D%881.52.13.png)<br>
+![GitHub Logo(https://github.com/ekils/AlgorithmPython/blob/master/algorithmmaster/ixensor_Algorithm/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-04-11%20%E4%B8%8B%E5%8D%881.52.36.pngg)<br>
+![GitHub Logo(https://github.com/ekils/AlgorithmPython/blob/master/algorithmmaster/ixensor_Algorithm/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-04-11%20%E4%B8%8B%E5%8D%881.52.47.png)<br>
+![GitHub Logo(https://github.com/ekils/AlgorithmPython/blob/master/algorithmmaster/ixensor_Algorithm/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-04-11%20%E4%B8%8B%E5%8D%881.52.58.png)<br>
