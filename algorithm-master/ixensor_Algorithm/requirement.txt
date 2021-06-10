@@ -4,7 +4,7 @@ chardet==3.0.4
 chromedriver-installer==0.0.6
 colour==0.1.5
 cycler==0.10.0
-Django==2.0.6
+Django==2.2.24
 et-xmlfile==1.0.1
 idna==2.7
 jdcal==1.4
